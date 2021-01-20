@@ -1,2 +1,10 @@
-# Aeroosh-Copy-Paste-Boutique
-Ce mec a copy paste ma boutique mais vu que c'est un skid jla leak ptdr
+# Boutique Tebex
+
+## Prerequisite
+- I will help nobody !
+
+## Credit
+💖 Create by MasterLua
+
+## PS
+- Regarder bien le code d'accord et dite moi si il n'y a pas de ressemblance avec https://github.com/MasterLua/Boutique-Menu-V2 :)
